@@ -1,0 +1,4 @@
+import platform
+
+print("Hola desde AWS System Manager")
+print("Systema operativo: ", platform.system())
